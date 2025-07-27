@@ -1,0 +1,9 @@
+CREATE DATABASE atm_db;
+
+USE atm_db;
+
+CREATE TABLE users (
+    user_id INT PRIMARY KEY AUTO_INCREMENT,
+    pin VARCHAR(10) UNIQUE NOT NULL,
+    balance DOUBLE DEFAULT 0.0
+);
