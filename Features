@@ -1,0 +1,25 @@
+Features :
+  1. Secure Login using PIN-based authentication
+
+  2. Generate PIN for new users
+
+  3. Withdraw and Deposit money
+
+  4. Change PIN securely
+
+  5.Check Balance functionality
+
+  6. Clean and user-friendly GUI using Java Swing
+
+  7. MySQL database for storing user credentials and transaction data
+
+Tech Stack :
+
+  Frontend: Java Swing
+
+  Backend: Java
+
+  Database: MySQL
+
+  IDE Used: IntelliJ IDEA 
+
